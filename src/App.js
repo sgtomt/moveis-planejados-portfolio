@@ -3,12 +3,12 @@ import React, { useState } from 'react';
 function App() {
   // 1. DADOS DOS PROJETOS COM CATEGORIAS E FOTOS CORRIGIDAS
   const projetos = [
-    { id: 1, categoria: "Cozinhas", titulo: "Cozinha Minimalista", desc: "MDF Grafite com puxadores ocultos", img: "/imagens/Cozinhas/cozinhas1.jpg" },
-    { id: 2, categoria: "Cozinhas", titulo: "Cozinha Gourmet", desc: "Ilha central com bancada americana", img: "/imagens/Cozinhas/cozinhas2.jpg" },
-    { id: 3, categoria: "Banheiros", titulo: "Gabinete Luxo", desc: "MDF naval resistente a umidade", img: "/imagens/Banheiros/banheiros1.jpg" },
-    { id: 4, categoria: "Quartos", titulo: "Dormitório Suíte", desc: "Painel ripado com nichos embutidos", img: "/imagens/Quartos/quartos1.jpg" },
-    { id: 5, categoria: "Quartos", titulo: "Closet Integrado", desc: "Divisórias personalizadas com vidro", img: "/imagens/Quartos/quartos2.jpg" },
-    { id: 6, categoria: "Escritórios", titulo: "Home Office Premium", desc: "Mesa ergonômica com calhas organizadoras", img: "/imagens/Escritorios/escritorios1.jpg" },
+    { id: 1, categoria: "Cozinhas", titulo: "Cozinha Minimalista", desc: "MDF Grafite com puxadores ocultos", img: "/imagens/cozinhas/cozinhas1.jpg" },
+    { id: 2, categoria: "Cozinhas", titulo: "Cozinha Gourmet", desc: "Ilha central com bancada americana", img: "/imagens/cozinhas/cozinhas2.jpg" },
+    { id: 3, categoria: "Banheiros", titulo: "Gabinete Luxo", desc: "MDF naval resistente a umidade", img: "/imagens/banheiros/banheiros1.jpg" },
+    { id: 4, categoria: "Quartos", titulo: "Dormitório Suíte", desc: "Painel ripado com nichos embutidos", img: "/imagens/quartos/quartos1.jpg" },
+    { id: 5, categoria: "Quartos", titulo: "Closet Integrado", desc: "Divisórias personalizadas com vidro", img: "/imagens/quartos/quartos2.jpg" },
+    { id: 6, categoria: "Escritórios", titulo: "Home Office Premium", desc: "Mesa ergonômica com calhas organizadoras", img: "/imagens/escritorios/escritorios1.jpg" },
   ];
 
   const mensagemPadrao = "Olá! Vi o portfólio digital da Stilo BR e gostaria de fazer um orçamento de móveis planejados.";
