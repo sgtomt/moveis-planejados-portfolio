@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "https://sgtomt.github.io/moveis-planejados-portfolio/static/css/main.e5436ff5.css",
-    "main.js": "https://sgtomt.github.io/moveis-planejados-portfolio/static/js/main.0b1b99e2.js",
+    "main.js": "https://sgtomt.github.io/moveis-planejados-portfolio/static/js/main.e17ad78e.js",
     "static/js/453.7bc4cbd1.chunk.js": "https://sgtomt.github.io/moveis-planejados-portfolio/static/js/453.7bc4cbd1.chunk.js",
     "index.html": "https://sgtomt.github.io/moveis-planejados-portfolio/index.html",
     "main.e5436ff5.css.map": "https://sgtomt.github.io/moveis-planejados-portfolio/static/css/main.e5436ff5.css.map",
-    "main.0b1b99e2.js.map": "https://sgtomt.github.io/moveis-planejados-portfolio/static/js/main.0b1b99e2.js.map",
+    "main.e17ad78e.js.map": "https://sgtomt.github.io/moveis-planejados-portfolio/static/js/main.e17ad78e.js.map",
     "453.7bc4cbd1.chunk.js.map": "https://sgtomt.github.io/moveis-planejados-portfolio/static/js/453.7bc4cbd1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e5436ff5.css",
-    "static/js/main.0b1b99e2.js"
+    "static/js/main.e17ad78e.js"
   ]
 }
